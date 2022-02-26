@@ -1,0 +1,1 @@
+做好的图只需要以banner.png放入images文件夹，再打开html文件即可预览结果。
